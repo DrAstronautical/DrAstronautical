@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DrAstronautical
+- 👋 Hi, I’m Chad Hooper AKA @DrAstronautical
 - 👀 I’m interested in The Cosmos
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on Nothing right now
+- 🌱 I’m currently learning Cloud computing and Egineering!
 - 📫 How to reach me chadghooper2001@gmail.com
 
 <!---
