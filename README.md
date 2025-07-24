@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chad Hooper AKA @DrAstronautical
 - 👀 I’m interested in The Cosmos
-- 🌱 I’m currently learning Cloud computing and Egineering!
+- 🌱 I’m currently learning Cloud computing and Engineering!
 - 📫 How to reach me chadghooper2001@gmail.com
 
 <!---
